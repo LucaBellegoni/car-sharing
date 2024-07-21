@@ -1,4 +1,4 @@
-package org.acme.endpoint;
+package org.acme.v1.endpoint;
 
 import java.util.List;
 
